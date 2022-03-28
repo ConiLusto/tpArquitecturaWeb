@@ -29,9 +29,9 @@ Quienes ingresen a la pagina podrán leer las reviews ya existentes o escribir u
 
 
 
-[README en proceso...]
+
 
 
 <img src="https://c.tenor.com/pgO8hZgOW5AAAAAC/loading-bar.gif"/>
 
-
+[README en proceso...]
